@@ -7,6 +7,14 @@ img {
     
 }
 
+.pfp{
+	height: 500px;
+    width: 400px;
+    padding: 3px;
+    margin: 5px;
+}
+
+
 h1 {
 border: 3px solid  #000000;
     
