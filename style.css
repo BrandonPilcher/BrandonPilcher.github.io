@@ -49,7 +49,7 @@ body {
 	text-align: center;
 	margin: 0;
 	padding: 1rem;
-	background-color: rgba(10, 12, 18, 1);
+	Background-image: url("https://media.tenor.com/6ZUs587t-_YAAAAC/blue-heart-black.gif");
 	color: white;
 	min-height: 100vh;
 	display: flex;
@@ -118,4 +118,5 @@ p {
 		--gradX: 50%;
 		--gradY: 0%;
 	}
+	
 }
