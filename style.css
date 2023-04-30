@@ -50,7 +50,7 @@ body {
 	margin: 0;
 	padding: 1rem;
 	background-image: url("https://media.tenor.com/6ZUs587t-_YAAAAC/blue-heart-black.gif");
-	color: white;
+	background-color:black;
 	min-height: 100vh;
 	display: flex;
 	flex-wrap: wrap;
